@@ -1,1 +1,1 @@
-This repository is done for entropy hackathon organised by the VIT
+A real-time Speech to Sign Language Translator that converts spoken audio into sign language videos using deep learning and computer vision techniques. The system captures audio input, transcribes it into text using the Whisper speech recognition model, and maps the recognized words to corresponding sign language videos (MP4/GIF). These videos are then processed and combined into a single output video, enabling accessible communication for hearing and speech-impaired individuals.
